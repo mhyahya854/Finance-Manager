@@ -1,7 +1,5 @@
 {
   "name": "Offline Personal Finance Tracker",
-  "description": "A modern, offline-first personal finance tracker with multi-currency support, receipt management, and data exports. All data is stored locally in your browser.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
+  "description": "A modern, offline-first PWA for personal finance tracking with multi-currency support and data exports. Installable on your device and works without an internet connection. All data is stored locally.",
+  "requestFramePermissions": []
 }

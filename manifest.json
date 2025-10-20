@@ -1,0 +1,23 @@
+{
+  "short_name": "Finance Tracker",
+  "name": "Offline Personal Finance Tracker",
+  "description": "A modern, offline-first PWA for personal finance tracking. All data is stored locally.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#3B82F6"
+}
