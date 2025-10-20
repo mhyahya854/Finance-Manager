@@ -1,0 +1,7 @@
+{
+  "name": "Offline Personal Finance Tracker",
+  "description": "A modern, offline-first personal finance tracker with multi-currency support, receipt management, and data exports. All data is stored locally in your browser.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
